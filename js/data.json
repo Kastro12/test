@@ -1,0 +1,9 @@
+
+
+ {
+    "users": [
+      {"email": "New1", "number": "1","currency":"dolar"},
+      {"email": "New1", "number": "1","currency":"dolar"},
+      {"email": "New1", "number": "1","currency":"dolar"}
+    ]
+  }
